@@ -1,0 +1,1 @@
+https://www.codeproject.com/Articles/810618/Using-Adapter-Pattern-on-Entity-Framework-Database
